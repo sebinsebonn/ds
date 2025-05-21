@@ -343,6 +343,8 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:coconino_meadow": "2025-05-21 01:03:19 +0000",
+      "biomeswevegone:maple_taiga": "2025-05-21 16:54:58 +0000",
+      "biomeswevegone:orchard": "2025-05-21 16:55:35 +0000",
       "biomeswevegone:skyrise_vale": "2025-05-21 00:10:36 +0000"
     },
     "done": false
