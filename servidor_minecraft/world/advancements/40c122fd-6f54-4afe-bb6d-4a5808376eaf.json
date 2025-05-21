@@ -427,15 +427,51 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-21 00:36:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-21 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "create_winery:wine_advancement_1": {
+    "criteria": {
+      "wine_advancement_1": "2025-05-21 00:45:55 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:mossy_mounds": {
+    "criteria": {
+      "in_mossy_mounds": "2025-05-21 00:46:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-05-21 00:49:43 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "slept_in_bed": "2025-05-21 00:36:13 +0000"
+      "iron_knife": "2025-05-21 00:50:29 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-05-21 00:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-21 00:51:08 +0000"
     },
     "done": true
   },
@@ -449,27 +485,9 @@
     },
     "done": false
   },
-  "create_winery:wine_advancement_1": {
-    "criteria": {
-      "wine_advancement_1": "2025-05-21 00:45:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-05-21 00:53:57 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-05-21 00:44:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2025-05-21 00:50:29 +0000"
     },
     "done": true
   },
@@ -479,35 +497,17 @@
     },
     "done": true
   },
-  "integrated_villages:mossy_mounds": {
-    "criteria": {
-      "in_mossy_mounds": "2025-05-21 00:46:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "carrot": "2025-05-21 02:24:01 +0000"
-    },
-    "done": false
-  },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
       "apple": "2025-05-21 01:05:34 +0000"
     },
     "done": false
   },
-  "immersive_aircraft:misc/aircraftery": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_item": "2025-05-21 00:51:08 +0000"
+      "carrot": "2025-05-21 02:24:01 +0000"
     },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-05-21 00:51:08 +0000"
-    },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }

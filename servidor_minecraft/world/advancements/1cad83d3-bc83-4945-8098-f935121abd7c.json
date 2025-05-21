@@ -538,5 +538,17 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-05-21 16:44:38 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-05-21 16:40:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
