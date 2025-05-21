@@ -4763,3 +4763,30 @@ ModdedBiomeSource (4771c6c9)
 [21May2025 16:58:34.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mabilone> igual fue buena
 [21May2025 16:58:37.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> siempre me aparecia una wea a mi
 [21May2025 16:58:39.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> lit
+[21May2025 17:03:59.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=965, y=64, z=658} BlockPos{x=965, y=62, z=659}
+[21May2025 17:04:15.468] [Worker-Main-81/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[21May2025 17:04:15.469] [Worker-Main-81/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[21May2025 17:04:15.472] [Worker-Main-81/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest
+[21May2025 17:04:15.808] [Worker-Main-80/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[21May2025 17:04:15.808] [Worker-Main-80/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[21May2025 17:04:15.870] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[21May2025 17:04:25.955] [Worker-Main-81/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[21May2025 17:04:25.955] [Worker-Main-81/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[21May2025 17:04:26.652] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1333, y=64, z=842}
+[21May2025 17:06:31.516] [Worker-Main-80/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.4031243f,range:8,source:{pos:[I;-548,-50,-106],type:"minecraft:block"}}]
+[21May2025 17:06:34.836] [Worker-Main-81/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.472136f,range:8,source:{pos:[I;-561,-50,-112],type:"minecraft:block"}}]
+[21May2025 17:06:34.836] [Worker-Main-81/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.0f,range:8,source:{pos:[I;-553,-50,-122],type:"minecraft:block"}}]
+[21May2025 17:06:34.989] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-547,-50,-107],type:"minecraft:block"}}]
+[21May2025 17:06:47.956] [Worker-Main-80/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id mowziesmobs:ferrous_wroughtnaut
+[21May2025 17:10:03.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone has made the advancement [On the grapevine]
+[21May2025 17:11:05.296] [Worker-Main-48/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21May2025 17:11:05.296] [Worker-Main-48/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21May2025 17:11:05.296] [Worker-Main-48/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21May2025 17:11:05.297] [Worker-Main-48/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21May2025 17:11:05.297] [Worker-Main-48/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21May2025 17:11:05.297] [Worker-Main-48/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21May2025 17:11:08.296] [Worker-Main-11/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[21May2025 17:11:08.296] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[21May2025 17:11:08.297] [Worker-Main-11/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[21May2025 17:11:08.297] [Worker-Main-11/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[21May2025 17:11:08.297] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
