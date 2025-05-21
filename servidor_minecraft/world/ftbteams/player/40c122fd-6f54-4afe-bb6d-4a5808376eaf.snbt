@@ -1,0 +1,17 @@
+{
+	id: "40c122fd-6f54-4afe-bb6d-4a5808376eaf"
+	type: "player"
+	player_name: "sebita_chile"
+	ranks: {
+		40c122fd-6f54-4afe-bb6d-4a5808376eaf: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "sebita_chile"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF61"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "2109a6b3-21b8-32a0-a8db-5806fe9e99fa"
+	type: "player"
+	player_name: "Darrouy"
+	ranks: {
+		2109a6b3-21b8-32a0-a8db-5806fe9e99fa: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Darrouy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#93FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "1cad83d3bc8349458098f935121abd7c"
+	name: "Mabilone#1cad83d3"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		3BD361F571CA80B5: 1
+	}
+	started: {
+		497D9A5F750C0D7E: 1747785979204L
+		5FCF1117B8C403BE: 1747785979204L
+		3BD361F571CA80B5: 1747785979204L
+		0000000000000001: 1747785979204L
+	}
+	completed: {
+		5FCF1117B8C403BE: 1747785979208L
+		3BD361F571CA80B5: 1747785979208L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

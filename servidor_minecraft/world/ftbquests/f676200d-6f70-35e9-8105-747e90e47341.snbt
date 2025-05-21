@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "f676200d6f7035e98105747e90e47341"
+	name: "zErazer#f676200d"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		3BD361F571CA80B5: 1
+	}
+	started: {
+		497D9A5F750C0D7E: 1747785501843L
+		5FCF1117B8C403BE: 1747785501843L
+		3BD361F571CA80B5: 1747785501843L
+		0000000000000001: 1747785501843L
+	}
+	completed: {
+		5FCF1117B8C403BE: 1747785501847L
+		3BD361F571CA80B5: 1747785501847L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

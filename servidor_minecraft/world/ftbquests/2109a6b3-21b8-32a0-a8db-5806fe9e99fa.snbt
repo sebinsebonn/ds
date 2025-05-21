@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "2109a6b321b832a0a8db5806fe9e99fa"
+	name: "Darrouy#2109a6b3"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

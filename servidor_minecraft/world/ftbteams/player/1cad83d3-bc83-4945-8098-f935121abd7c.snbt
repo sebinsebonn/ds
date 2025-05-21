@@ -1,0 +1,15 @@
+{
+	id: "1cad83d3-bc83-4945-8098-f935121abd7c"
+	type: "player"
+	player_name: "Mabilone"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Mabilone"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

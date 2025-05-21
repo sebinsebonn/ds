@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "84bcd4be0cc137c8b801785b9fcaf01e"
+	name: "sebita_chile#84bcd4be"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

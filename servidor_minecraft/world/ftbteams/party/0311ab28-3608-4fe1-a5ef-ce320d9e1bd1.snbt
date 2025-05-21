@@ -1,0 +1,17 @@
+{
+	id: "0311ab28-3608-4fe1-a5ef-ce320d9e1bd1"
+	type: "party"
+	owner: "1cad83d3-bc83-4945-8098-f935121abd7c"
+	ranks: {
+		1cad83d3-bc83-4945-8098-f935121abd7c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "seas"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1747790292857L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Mabilone\"}]}" }]
+	extra: { }
+}

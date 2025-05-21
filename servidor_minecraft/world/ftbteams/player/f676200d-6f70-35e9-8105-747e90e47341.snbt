@@ -1,0 +1,17 @@
+{
+	id: "f676200d-6f70-35e9-8105-747e90e47341"
+	type: "player"
+	player_name: "zErazer"
+	ranks: {
+		f676200d-6f70-35e9-8105-747e90e47341: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "zErazer"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
