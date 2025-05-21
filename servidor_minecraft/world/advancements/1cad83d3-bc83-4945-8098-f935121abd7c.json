@@ -277,6 +277,7 @@
       "autumnity:autumnity:maple_forest": "2025-05-21 17:12:43 +0000",
       "minecraft:frozen_ocean": "2025-05-21 00:19:45 +0000",
       "minecraft:snowy_beach": "2025-05-21 00:34:27 +0000",
+      "minecraft:flower_forest": "2025-05-21 17:41:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-21 17:06:45 +0000",
       "minecraft:plains": "2025-05-21 00:45:06 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-05-21 00:52:04 +0000"
@@ -391,8 +392,10 @@
       "biomeswevegone:maple_taiga": "2025-05-21 00:58:28 +0000",
       "biomeswevegone:cypress_swamplands": "2025-05-21 17:23:29 +0000",
       "biomeswevegone:orchard": "2025-05-21 00:58:48 +0000",
+      "biomeswevegone:prairie": "2025-05-21 17:37:06 +0000",
       "biomeswevegone:skyrise_vale": "2025-05-21 00:10:12 +0000",
-      "biomeswevegone:pumpkin_valley": "2025-05-21 17:29:36 +0000"
+      "biomeswevegone:pumpkin_valley": "2025-05-21 17:29:36 +0000",
+      "biomeswevegone:bayou": "2025-05-21 17:33:09 +0000"
     },
     "done": false
   },
@@ -416,6 +419,7 @@
       "cooked_chicken": "2025-05-21 00:17:45 +0000",
       "apple": "2025-05-21 00:19:16 +0000",
       "supplementaries:candy": "2025-05-21 01:13:35 +0000",
+      "golden_carrot": "2025-05-21 17:37:54 +0000",
       "carrot": "2025-05-21 17:07:13 +0000"
     },
     "done": false
@@ -488,9 +492,10 @@
   },
   "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
     "criteria": {
+      "abondoned_prairie_house": "2025-05-21 17:39:56 +0000",
       "prairie_house": "2025-05-21 00:49:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
