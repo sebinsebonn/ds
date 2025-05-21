@@ -386,10 +386,13 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:forgotten_forest": "2025-05-21 17:23:27 +0000",
       "biomeswevegone:coconino_meadow": "2025-05-21 00:57:55 +0000",
       "biomeswevegone:maple_taiga": "2025-05-21 00:58:28 +0000",
+      "biomeswevegone:cypress_swamplands": "2025-05-21 17:23:29 +0000",
       "biomeswevegone:orchard": "2025-05-21 00:58:48 +0000",
-      "biomeswevegone:skyrise_vale": "2025-05-21 00:10:12 +0000"
+      "biomeswevegone:skyrise_vale": "2025-05-21 00:10:12 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-05-21 17:29:36 +0000"
     },
     "done": false
   },
@@ -543,6 +546,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-05-21 17:30:11 +0000"
+    },
+    "done": true
+  },
   "create_winery:wine_advancement_1": {
     "criteria": {
       "wine_advancement_1": "2025-05-21 17:10:03 +0000"
@@ -558,6 +567,24 @@
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-05-21 16:40:55 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:tavern_village": {
+    "criteria": {
+      "in_tavern_village": "2025-05-21 17:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-21 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2025-05-21 17:30:11 +0000"
     },
     "done": true
   },

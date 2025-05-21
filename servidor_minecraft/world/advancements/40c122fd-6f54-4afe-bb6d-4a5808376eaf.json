@@ -419,6 +419,8 @@
     "criteria": {
       "abnormals_delight:kelp_roll_slice": "2025-05-21 17:06:09 +0000",
       "bread": "2025-05-21 00:26:34 +0000",
+      "abnormals_delight:cod_roll": "2025-05-21 17:30:29 +0000",
+      "abnormals_delight:salmon_roll": "2025-05-21 17:26:26 +0000",
       "chicken": "2025-05-21 17:21:27 +0000",
       "apple": "2025-05-21 01:16:39 +0000",
       "carrot": "2025-05-21 01:11:07 +0000"
@@ -485,7 +487,8 @@
       "minecraft:spider": "2025-05-21 01:51:23 +0000",
       "minecraft:creeper": "2025-05-21 01:53:10 +0000",
       "minecraft:phantom": "2025-05-21 01:52:25 +0000",
-      "minecraft:witch": "2025-05-21 00:55:18 +0000"
+      "minecraft:witch": "2025-05-21 00:55:18 +0000",
+      "minecraft:zombie": "2025-05-21 17:28:39 +0000"
     },
     "done": false
   },
@@ -512,6 +515,18 @@
       "carrot": "2025-05-21 02:24:01 +0000"
     },
     "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-21 17:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-21 17:25:27 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
     "criteria": {
