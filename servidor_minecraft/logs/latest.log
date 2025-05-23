@@ -4739,3 +4739,23 @@ ModdedBiomeSource (78af8cdd)
 [23May2025 22:53:32.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer has made the advancement [It's a Buhg]
 [23May2025 22:55:26.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer got cut in half by a Mechanical Saw
 [23May2025 22:57:25.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> dsasdsasdsasdsa
+[23May2025 23:06:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer has made the advancement [Don't. Move.]
+[23May2025 23:06:55.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer was blown up by Peeper
+[23May2025 23:08:16.068] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mabilone is 1cad83d3-bc83-4945-8098-f935121abd7c
+[23May2025 23:08:19.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mabilone[/127.107.69.249:59893] logged in with entity id 44313 at (966.801042006582, 64.875, 528.8935038555359)
+[23May2025 23:08:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone joined the game
+[23May2025 23:08:19.907] [Server thread/INFO] [Jade/]: Syncing config to Mabilone (1cad83d3-bc83-4945-8098-f935121abd7c)
+[23May2025 23:08:19.931] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 1cad83d3-bc83-4945-8098-f935121abd7c
+[23May2025 23:08:22.999] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23May2025 23:08:22.999] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23May2025 23:08:23.000] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23May2025 23:08:23.000] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23May2025 23:08:23.000] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23May2025 23:08:23.000] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23May2025 23:08:23.000] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23May2025 23:08:23.000] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23May2025 23:08:23.001] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23May2025 23:08:23.001] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23May2025 23:08:23.001] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/ds/servidor_minecraft/bclib-sync (allowDelete=true)
+[23May2025 23:10:07.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer was shot by Skeleton
+[23May2025 23:12:56.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer was blown up by Peeper
