@@ -507,10 +507,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "caverns_and_chasms:deeper": "2025-05-23 21:37:37 +0000",
       "minecraft:skeleton": "2025-05-21 00:53:57 +0000",
       "minecraft:magma_cube": "2025-05-21 22:26:37 +0000",
       "minecraft:spider": "2025-05-21 01:51:23 +0000",
       "minecraft:creeper": "2025-05-21 01:53:10 +0000",
+      "minecraft:slime": "2025-05-23 21:38:44 +0000",
+      "caverns_and_chasms:peeper": "2025-05-23 21:34:23 +0000",
       "minecraft:phantom": "2025-05-21 01:52:25 +0000",
       "minecraft:witch": "2025-05-21 00:55:18 +0000",
       "minecraft:wither_skeleton": "2025-05-22 01:54:02 +0000",
@@ -811,6 +814,18 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-05-22 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "create_bic_bit:lawn_defender": {
+    "criteria": {
+      "harvested_sunflower": "2025-05-23 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/dont_move": {
+    "criteria": {
+      "spotted_by_peeper": "2025-05-23 21:25:20 +0000"
     },
     "done": true
   },

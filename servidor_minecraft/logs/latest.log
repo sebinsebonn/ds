@@ -4642,3 +4642,14 @@ ModdedBiomeSource (78af8cdd)
 [23May2025 20:48:20.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12999ms or 259 ticks behind
 [23May2025 20:48:37.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile was slain by Zombie
 [23May2025 21:13:31.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile fell from a high place
+[23May2025 21:25:20.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile has made the advancement [Don't. Move.]
+[23May2025 21:25:57.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile was blown up by Peeper
+[23May2025 21:27:06.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile has made the advancement [Lawn Defender]
+[23May2025 21:27:57.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> asddsadsdsdsdds
+[23May2025 21:39:38.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23May2025 21:39:38.593] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23May2025 21:39:38.893] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23May2025 21:39:44.893] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23May2025 21:39:44.994] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23May2025 21:39:45.094] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23May2025 21:39:45.193] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
