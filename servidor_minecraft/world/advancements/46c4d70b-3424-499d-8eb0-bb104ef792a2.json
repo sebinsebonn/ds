@@ -692,5 +692,11 @@
     },
     "done": true
   },
+  "garnished:nut_tree": {
+    "criteria": {
+      "obtain_ungarnished_nut": "2025-05-23 22:19:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -4655,3 +4655,37 @@ ModdedBiomeSource (78af8cdd)
 [23May2025 21:39:45.193] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [23May2025 21:44:10.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile was blown up by Peeper
 [23May2025 22:04:12.594] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23May2025 22:17:03.701] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zErazer is 46c4d70b-3424-499d-8eb0-bb104ef792a2
+[23May2025 22:17:07.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zErazer[/127.73.191.137:40753] logged in with entity id 27267 at (637.7408063733029, 68.0, 785.3401628361454)
+[23May2025 22:17:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer joined the game
+[23May2025 22:17:07.606] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 46c4d70b-3424-499d-8eb0-bb104ef792a2
+[23May2025 22:17:07.620] [Server thread/INFO] [Jade/]: Syncing config to zErazer (46c4d70b-3424-499d-8eb0-bb104ef792a2)
+[23May2025 22:17:11.579] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23May2025 22:17:11.579] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23May2025 22:17:11.580] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23May2025 22:17:11.580] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23May2025 22:17:11.580] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23May2025 22:17:11.580] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23May2025 22:17:11.580] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23May2025 22:17:11.580] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23May2025 22:17:11.582] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23May2025 22:17:11.582] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23May2025 22:17:11.582] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/ds/servidor_minecraft/bclib-sync (allowDelete=true)
+[23May2025 22:17:14.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> ostras
+[23May2025 22:17:39.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> y este tio
+[23May2025 22:17:52.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> sale ds?
+[23May2025 22:17:58.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> altiro
+[23May2025 22:18:00.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> ven
+[23May2025 22:18:38.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> ven
+[23May2025 22:18:44.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> queri tus cosas o q chucha
+[23May2025 22:18:57.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> no q estaban en mi casA?
+[23May2025 22:19:03.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer has made the advancement [Vast Wilderness]
+[23May2025 22:19:15.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> eso e todo
+[23May2025 22:19:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> el mateo tiene algunas cosas
+[23May2025 22:19:28.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> dale
+[23May2025 22:20:06.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> choro
+[23May2025 22:20:08.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> q
+[23May2025 22:20:12.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> nio podrias dormir?
+[23May2025 22:21:16.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zErazer lost connection: Disconnected
+[23May2025 22:21:16.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer left the game
+[23May2025 22:21:16.152] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 46c4d70b-3424-499d-8eb0-bb104ef792a2
