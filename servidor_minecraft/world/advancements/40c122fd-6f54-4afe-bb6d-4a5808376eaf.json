@@ -819,6 +819,24 @@
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-05-23 22:53:42 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-05-23 22:56:37 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-05-23 22:54:16 +0000"
+    },
+    "done": true
+  },
   "create_bic_bit:lawn_defender": {
     "criteria": {
       "harvested_sunflower": "2025-05-23 21:27:06 +0000"
@@ -828,6 +846,18 @@
   "caverns_and_chasms:adventure/dont_move": {
     "criteria": {
       "spotted_by_peeper": "2025-05-23 21:25:20 +0000"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-05-23 22:56:37 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-05-23 22:56:37 +0000"
     },
     "done": true
   },

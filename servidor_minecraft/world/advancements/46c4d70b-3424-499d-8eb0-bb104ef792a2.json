@@ -698,5 +698,17 @@
     },
     "done": true
   },
+  "garnished:buhg": {
+    "criteria": {
+      "obtain_peanut": "2025-05-23 22:53:32 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-05-23 22:55:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
