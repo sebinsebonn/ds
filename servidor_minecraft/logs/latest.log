@@ -4700,3 +4700,40 @@ ModdedBiomeSource (78af8cdd)
 [23May2025 22:43:02.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> gg
 [23May2025 22:43:13.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server asi que en unos 10m me meto
 [23May2025 22:43:24.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> dale
+[23May2025 22:46:13.092] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zErazer is 46c4d70b-3424-499d-8eb0-bb104ef792a2
+[23May2025 22:46:16.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zErazer[/127.73.191.137:60753] logged in with entity id 34696 at (525.700712904389, 63.0, 690.3107470518423)
+[23May2025 22:46:16.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer joined the game
+[23May2025 22:46:16.886] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 46c4d70b-3424-499d-8eb0-bb104ef792a2
+[23May2025 22:46:16.894] [Server thread/INFO] [Jade/]: Syncing config to zErazer (46c4d70b-3424-499d-8eb0-bb104ef792a2)
+[23May2025 22:46:17.202] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23May2025 22:46:17.203] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23May2025 22:46:17.203] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23May2025 22:46:17.204] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23May2025 22:46:17.204] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23May2025 22:46:17.204] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23May2025 22:46:17.204] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23May2025 22:46:17.205] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23May2025 22:46:17.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23May2025 22:46:17.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23May2025 22:46:17.206] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/ds/servidor_minecraft/bclib-sync (allowDelete=true)
+[23May2025 22:47:14.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zErazer lost connection: Disconnected
+[23May2025 22:47:14.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer left the game
+[23May2025 22:47:14.802] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 46c4d70b-3424-499d-8eb0-bb104ef792a2
+[23May2025 22:47:14.910] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23May2025 22:50:26.769] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zErazer is 46c4d70b-3424-499d-8eb0-bb104ef792a2
+[23May2025 22:50:30.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zErazer[/127.73.191.137:40351] logged in with entity id 36321 at (525.700712904389, 63.0, 690.3107470518423)
+[23May2025 22:50:30.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer joined the game
+[23May2025 22:50:30.693] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 46c4d70b-3424-499d-8eb0-bb104ef792a2
+[23May2025 22:50:30.698] [Server thread/INFO] [Jade/]: Syncing config to zErazer (46c4d70b-3424-499d-8eb0-bb104ef792a2)
+[23May2025 22:50:34.155] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23May2025 22:50:34.156] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23May2025 22:50:34.156] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23May2025 22:50:34.156] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23May2025 22:50:34.156] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23May2025 22:50:34.156] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23May2025 22:50:34.156] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23May2025 22:50:34.156] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23May2025 22:50:34.157] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23May2025 22:50:34.157] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23May2025 22:50:34.157] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/ds/servidor_minecraft/bclib-sync (allowDelete=true)
+[23May2025 22:53:32.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer has made the advancement [It's a Buhg]
