@@ -4653,3 +4653,4 @@ ModdedBiomeSource (78af8cdd)
 [23May2025 21:39:44.994] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [23May2025 21:39:45.094] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [23May2025 21:39:45.193] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23May2025 21:44:10.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile was blown up by Peeper
