@@ -266,9 +266,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-21 00:09:21 +0000",
+      "minecraft:cherry_grove": "2025-05-21 20:19:58 +0000",
       "minecraft:windswept_hills": "2025-05-21 17:22:09 +0000",
+      "minecraft:savanna_plateau": "2025-05-21 20:20:00 +0000",
       "minecraft:beach": "2025-05-21 00:06:08 +0000",
       "environmental:environmental:blossom_woods": "2025-05-21 17:06:51 +0000",
+      "minecraft:dark_forest": "2025-05-21 18:10:42 +0000",
       "minecraft:river": "2025-05-21 00:18:00 +0000",
       "minecraft:snowy_plains": "2025-05-21 00:45:00 +0000",
       "minecraft:cold_ocean": "2025-05-21 00:18:54 +0000",
@@ -276,9 +279,11 @@
       "minecraft:lush_caves": "2025-05-21 00:11:40 +0000",
       "autumnity:autumnity:maple_forest": "2025-05-21 17:12:43 +0000",
       "minecraft:frozen_ocean": "2025-05-21 00:19:45 +0000",
+      "minecraft:jungle": "2025-05-21 20:51:53 +0000",
       "minecraft:snowy_beach": "2025-05-21 00:34:27 +0000",
       "minecraft:flower_forest": "2025-05-21 17:41:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-21 17:06:45 +0000",
+      "minecraft:savanna": "2025-05-21 17:47:55 +0000",
       "minecraft:plains": "2025-05-21 00:45:06 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-05-21 00:52:04 +0000"
     },
@@ -371,11 +376,23 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-21 17:54:48 +0000",
+      "minecraft:blaze": "2025-05-21 22:03:23 +0000",
+      "caverns_and_chasms:deeper": "2025-05-21 23:24:55 +0000",
       "minecraft:skeleton": "2025-05-21 00:07:38 +0000",
+      "minecraft:ghast": "2025-05-22 01:46:13 +0000",
+      "minecraft:vindicator": "2025-05-21 17:48:38 +0000",
+      "minecraft:magma_cube": "2025-05-22 01:31:34 +0000",
       "minecraft:spider": "2025-05-21 00:53:08 +0000",
       "minecraft:creeper": "2025-05-21 00:12:30 +0000",
+      "quark:forgotten": "2025-05-21 23:32:54 +0000",
       "minecraft:witch": "2025-05-21 01:18:32 +0000",
-      "minecraft:zombie": "2025-05-21 00:12:36 +0000"
+      "minecraft:wither_skeleton": "2025-05-21 23:11:30 +0000",
+      "minecraft:cave_spider": "2025-05-21 20:31:01 +0000",
+      "minecraft:piglin": "2025-05-21 21:40:12 +0000",
+      "minecraft:zombie": "2025-05-21 00:12:36 +0000",
+      "quark:foxhound": "2025-05-21 21:46:59 +0000",
+      "minecraft:zombie_villager": "2025-05-21 23:31:58 +0000"
     },
     "done": false
   },
@@ -392,8 +409,12 @@
       "biomeswevegone:maple_taiga": "2025-05-21 00:58:28 +0000",
       "biomeswevegone:cypress_swamplands": "2025-05-21 17:23:29 +0000",
       "biomeswevegone:orchard": "2025-05-21 00:58:48 +0000",
+      "biomeswevegone:ironwood_gour": "2025-05-21 20:39:49 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-05-21 18:08:07 +0000",
       "biomeswevegone:prairie": "2025-05-21 17:37:06 +0000",
+      "biomeswevegone:aspen_boreal": "2025-05-21 21:11:09 +0000",
       "biomeswevegone:skyrise_vale": "2025-05-21 00:10:12 +0000",
+      "biomeswevegone:allium_shrubland": "2025-05-21 20:18:00 +0000",
       "biomeswevegone:pumpkin_valley": "2025-05-21 17:29:36 +0000",
       "biomeswevegone:bayou": "2025-05-21 17:33:09 +0000"
     },
@@ -414,8 +435,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "abnormals_delight:kelp_roll_slice": "2025-05-21 00:50:00 +0000",
+      "potato": "2025-05-21 22:34:02 +0000",
       "bread": "2025-05-21 00:25:52 +0000",
+      "golden_apple": "2025-05-21 20:56:53 +0000",
+      "rotten_flesh": "2025-05-21 22:36:41 +0000",
       "cooked_beef": "2025-05-21 01:33:47 +0000",
+      "mutton": "2025-05-21 22:36:27 +0000",
       "cooked_chicken": "2025-05-21 00:17:45 +0000",
       "apple": "2025-05-21 00:19:16 +0000",
       "supplementaries:candy": "2025-05-21 01:13:35 +0000",
@@ -432,7 +457,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-05-21 00:18:41 +0000"
+      "apple": "2025-05-21 00:18:41 +0000",
+      "golden_apple": "2025-05-21 20:56:51 +0000"
     },
     "done": false
   },
@@ -551,15 +577,9 @@
     },
     "done": true
   },
-  "create_enchantment_industry:experienced_engineer": {
+  "create:andesite_casing": {
     "criteria": {
-      "have_experience_nugget": "2025-05-21 17:30:11 +0000"
-    },
-    "done": true
-  },
-  "create_winery:wine_advancement_1": {
-    "criteria": {
-      "wine_advancement_1": "2025-05-21 17:10:03 +0000"
+      "0": "2025-05-21 16:40:55 +0000"
     },
     "done": true
   },
@@ -569,9 +589,9 @@
     },
     "done": true
   },
-  "create:andesite_casing": {
+  "create_winery:wine_advancement_1": {
     "criteria": {
-      "0": "2025-05-21 16:40:55 +0000"
+      "wine_advancement_1": "2025-05-21 17:10:03 +0000"
     },
     "done": true
   },
@@ -587,9 +607,192 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-05-21 17:30:11 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:recipes/experience_rotor": {
     "criteria": {
       "has_item": "2025-05-21 17:30:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-05-21 17:52:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-05-21 18:11:57 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-05-21 18:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-21 19:04:51 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-05-21 19:10:42 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-05-21 19:16:31 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-05-21 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2025-05-21 20:23:52 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-05-21 20:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-21 20:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-21 20:59:53 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-05-21 21:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-21 21:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-21 21:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-21 21:37:20 +0000",
+      "minecraft:soul_sand_valley": "2025-05-21 21:45:56 +0000",
+      "minecraft:basalt_deltas": "2025-05-21 22:00:34 +0000",
+      "minecraft:warped_forest": "2025-05-21 22:02:50 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-05-21 21:40:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-05-21 21:54:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-05-21 22:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-21 22:03:16 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-05-21 23:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-21 23:12:39 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-05-21 23:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-21 23:59:27 +0000"
+    },
+    "done": true
+  },
+  "moped:copper_moped_root": {
+    "criteria": {
+      "copper_moped_root": "2025-05-22 00:05:14 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-05-22 00:05:14 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/smelt_copper": {
+    "criteria": {
+      "copper": "2025-05-22 00:05:14 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-05-22 00:10:35 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-05-22 00:10:54 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-05-22 00:18:01 +0000"
     },
     "done": true
   },
