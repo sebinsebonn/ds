@@ -578,6 +578,12 @@
     },
     "done": false
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-05-24 00:24:12 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/root": {
     "criteria": {
       "biomeswevegone:coconino_meadow": "2025-05-24 00:15:13 +0000"
