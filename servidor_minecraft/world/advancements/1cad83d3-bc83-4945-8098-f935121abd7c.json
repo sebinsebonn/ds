@@ -820,5 +820,11 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-05-24 03:32:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
