@@ -498,3 +498,6 @@
 [24May2025 02:36:35.569] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [24May2025 02:36:35.569] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [24May2025 02:36:35.569] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/ds/servidor_minecraft/bclib-sync (allowDelete=true)
+[24May2025 02:52:07.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zErazer lost connection: Disconnected
+[24May2025 02:52:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer left the game
+[24May2025 02:52:07.513] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 46c4d70b-3424-499d-8eb0-bb104ef792a2
