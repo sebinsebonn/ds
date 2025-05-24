@@ -582,21 +582,9 @@
     },
     "done": false
   },
-  "betterdungeons:all_dungeons": {
+  "biomeswevegone:biomeswevegone/adventure/root": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-05-24 01:18:05 +0000"
-    },
-    "done": false
-  },
-  "create:contraption_actors": {
-    "criteria": {
-      "0": "2025-05-24 01:02:49 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2025-05-24 01:21:59 +0000"
+      "biomeswevegone:coconino_meadow": "2025-05-24 00:15:13 +0000"
     },
     "done": true
   },
@@ -612,15 +600,27 @@
     },
     "done": true
   },
-  "biomeswevegone:biomeswevegone/adventure/root": {
+  "create:contraption_actors": {
     "criteria": {
-      "biomeswevegone:coconino_meadow": "2025-05-24 00:15:13 +0000"
+      "0": "2025-05-24 01:02:49 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-24 01:18:05 +0000"
+    },
+    "done": false
   },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-05-24 01:18:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-05-24 01:21:59 +0000"
     },
     "done": true
   },

@@ -826,27 +826,9 @@
     },
     "done": true
   },
-  "create:super_glue": {
+  "caverns_and_chasms:adventure/dont_move": {
     "criteria": {
-      "0": "2025-05-23 22:53:42 +0000"
-    },
-    "done": true
-  },
-  "create:funnel": {
-    "criteria": {
-      "0": "2025-05-23 22:56:37 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-05-24 01:32:36 +0000"
-    },
-    "done": false
-  },
-  "create:contraption_actors": {
-    "criteria": {
-      "0": "2025-05-23 22:54:16 +0000"
+      "spotted_by_peeper": "2025-05-23 21:25:20 +0000"
     },
     "done": true
   },
@@ -856,27 +838,27 @@
     },
     "done": true
   },
-  "quark:get_forgotten_hat": {
+  "create:super_glue": {
     "criteria": {
-      "get_forgotten_hat": "2025-05-23 23:56:13 +0000"
+      "0": "2025-05-23 22:53:42 +0000"
     },
     "done": true
   },
-  "caverns_and_chasms:adventure/dont_move": {
+  "create:contraption_actors": {
     "criteria": {
-      "spotted_by_peeper": "2025-05-23 21:25:20 +0000"
+      "0": "2025-05-23 22:54:16 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-05-23 22:56:37 +0000"
     },
     "done": true
   },
   "create:portable_storage_interface": {
     "criteria": {
       "0": "2025-05-23 22:56:37 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-05-24 01:32:36 +0000"
     },
     "done": true
   },
@@ -889,6 +871,24 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-23 23:38:46 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-05-23 23:56:13 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-24 01:32:36 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-24 01:32:36 +0000"
     },
     "done": true
   },
