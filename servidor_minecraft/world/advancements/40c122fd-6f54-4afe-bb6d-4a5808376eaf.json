@@ -520,6 +520,7 @@
       "minecraft:phantom": "2025-05-21 01:52:25 +0000",
       "minecraft:witch": "2025-05-21 00:55:18 +0000",
       "minecraft:wither_skeleton": "2025-05-22 01:54:02 +0000",
+      "minecraft:cave_spider": "2025-05-23 23:58:20 +0000",
       "quark:wraith": "2025-05-22 02:48:00 +0000",
       "minecraft:enderman": "2025-05-23 22:06:45 +0000",
       "caverns_and_chasms:mime": "2025-05-21 18:02:21 +0000",
@@ -844,6 +845,12 @@
   "create_bic_bit:lawn_defender": {
     "criteria": {
       "harvested_sunflower": "2025-05-23 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-05-23 23:56:13 +0000"
     },
     "done": true
   },

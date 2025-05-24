@@ -553,15 +553,21 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-05-22 02:36:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-05-22 02:47:29 +0000"
     },
     "done": true
   },
-  "create:burner": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "0": "2025-05-22 02:36:14 +0000"
+      "shot_crossbow": "2025-05-24 00:01:38 +0000"
     },
     "done": true
   },
