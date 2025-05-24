@@ -898,5 +898,29 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-05-24 03:01:42 +0000"
+    },
+    "done": false
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2025-05-24 03:01:50 +0000"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-05-24 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-05-24 03:13:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

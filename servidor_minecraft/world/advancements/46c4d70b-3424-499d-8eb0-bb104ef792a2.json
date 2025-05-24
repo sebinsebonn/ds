@@ -706,40 +706,15 @@
     },
     "done": true
   },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2025-05-24 02:34:51 +0000",
-      "1": "2025-05-24 02:25:56 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-05-24 01:10:01 +0000"
-    },
-    "done": true
-  },
   "garnished:buhg": {
     "criteria": {
       "obtain_peanut": "2025-05-23 22:53:32 +0000"
     },
     "done": true
   },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-05-24 01:49:34 +0000"
-    },
-    "done": false
-  },
   "create:brass": {
     "criteria": {
       "0": "2025-05-23 22:55:09 +0000"
-    },
-    "done": true
-  },
-  "create:millstone": {
-    "criteria": {
-      "0": "2025-05-24 00:15:14 +0000"
     },
     "done": true
   },
@@ -749,15 +724,40 @@
     },
     "done": true
   },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-05-24 00:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-05-24 00:37:14 +0000"
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-05-24 01:10:01 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-24 01:49:34 +0000"
+    },
+    "done": false
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-05-24 01:49:34 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-05-24 02:34:51 +0000",
+      "1": "2025-05-24 02:25:56 +0000"
     },
     "done": true
   },
