@@ -266,6 +266,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-21 18:28:15 +0000",
+      "minecraft:frozen_river": "2025-05-24 01:16:35 +0000",
       "minecraft:beach": "2025-05-21 00:10:59 +0000",
       "minecraft:river": "2025-05-21 18:34:25 +0000",
       "minecraft:snowy_plains": "2025-05-21 18:45:49 +0000",
@@ -508,7 +509,8 @@
       "minecraft:skeleton": "2025-05-22 01:46:07 +0000",
       "minecraft:zombified_piglin": "2025-05-22 01:37:26 +0000",
       "minecraft:wither_skeleton": "2025-05-22 01:47:44 +0000",
-      "minecraft:enderman": "2025-05-22 01:48:24 +0000"
+      "minecraft:enderman": "2025-05-22 01:48:24 +0000",
+      "minecraft:zombie": "2025-05-24 01:16:53 +0000"
     },
     "done": false
   },
@@ -579,9 +581,21 @@
     },
     "done": false
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-24 01:18:05 +0000"
+    },
+    "done": false
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2025-05-24 01:02:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-05-24 01:21:59 +0000"
     },
     "done": true
   },
@@ -600,6 +614,12 @@
   "biomeswevegone:biomeswevegone/adventure/root": {
     "criteria": {
       "biomeswevegone:coconino_meadow": "2025-05-24 00:15:13 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-24 01:18:05 +0000"
     },
     "done": true
   },
