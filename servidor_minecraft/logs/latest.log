@@ -412,3 +412,21 @@
 [24May2025 01:56:28.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile lost connection: Disconnected
 [24May2025 01:56:28.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile left the game
 [24May2025 01:56:28.909] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 40c122fd-6f54-4afe-bb6d-4a5808376eaf
+[24May2025 02:02:54.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer was slain by Zombie
+[24May2025 02:07:46.669] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player sebita_chile is 40c122fd-6f54-4afe-bb6d-4a5808376eaf
+[24May2025 02:07:50.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebita_chile[/127.183.209.125:53351] logged in with entity id 174351 at (-450.4644114896639, 27.0, -56.334081902280204)
+[24May2025 02:07:50.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile joined the game
+[24May2025 02:07:50.456] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 40c122fd-6f54-4afe-bb6d-4a5808376eaf
+[24May2025 02:07:50.462] [Server thread/INFO] [Jade/]: Syncing config to sebita_chile (40c122fd-6f54-4afe-bb6d-4a5808376eaf)
+[24May2025 02:07:50.756] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[24May2025 02:07:50.756] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[24May2025 02:07:50.756] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[24May2025 02:07:50.756] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[24May2025 02:07:50.756] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[24May2025 02:07:50.756] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[24May2025 02:07:50.756] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[24May2025 02:07:50.756] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[24May2025 02:07:50.756] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[24May2025 02:07:50.757] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[24May2025 02:07:50.757] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/ds/servidor_minecraft/bclib-sync (allowDelete=true)
+[24May2025 02:07:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile suffocated in a wall
