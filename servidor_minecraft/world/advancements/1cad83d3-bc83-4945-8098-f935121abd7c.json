@@ -441,6 +441,7 @@
       "bread": "2025-05-21 00:25:52 +0000",
       "golden_apple": "2025-05-21 20:56:53 +0000",
       "rotten_flesh": "2025-05-21 22:36:41 +0000",
+      "abnormals_delight:fried_rice": "2025-05-24 19:02:58 +0000",
       "cooked_beef": "2025-05-21 01:33:47 +0000",
       "mutton": "2025-05-21 22:36:27 +0000",
       "cooked_chicken": "2025-05-21 00:17:45 +0000",
@@ -833,6 +834,18 @@
       "0": "2025-05-24 03:38:47 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-24 19:02:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fried_rice": "2025-05-24 19:02:58 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
