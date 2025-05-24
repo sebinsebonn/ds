@@ -430,3 +430,27 @@
 [24May2025 02:07:50.757] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [24May2025 02:07:50.757] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/ds/servidor_minecraft/bclib-sync (allowDelete=true)
 [24May2025 02:07:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile suffocated in a wall
+[24May2025 02:13:29.486] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/177763, l='ServerLevel[world]', x=-446.50, y=55.00, z=248.50]
+[24May2025 02:14:39.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked sebita_chile: Kicked by an operator
+[24May2025 02:14:39.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile lost connection: Kicked by an operator
+[24May2025 02:14:39.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile left the game
+[24May2025 02:14:39.979] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 40c122fd-6f54-4afe-bb6d-4a5808376eaf
+[24May2025 02:14:46.385] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player sebita_chile is 40c122fd-6f54-4afe-bb6d-4a5808376eaf
+[24May2025 02:14:50.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebita_chile[/127.183.209.125:55149] logged in with entity id 179223 at (519.7109863334983, 64.0, 728.3593885703374)
+[24May2025 02:14:50.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile joined the game
+[24May2025 02:14:50.147] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 40c122fd-6f54-4afe-bb6d-4a5808376eaf
+[24May2025 02:14:50.153] [Server thread/INFO] [Jade/]: Syncing config to sebita_chile (40c122fd-6f54-4afe-bb6d-4a5808376eaf)
+[24May2025 02:14:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[24May2025 02:14:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[24May2025 02:14:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[24May2025 02:14:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[24May2025 02:14:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[24May2025 02:14:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[24May2025 02:14:50.515] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[24May2025 02:14:50.517] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[24May2025 02:14:50.517] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[24May2025 02:14:50.517] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[24May2025 02:14:50.517] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/ds/servidor_minecraft/bclib-sync (allowDelete=true)
+[24May2025 02:15:30.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zErazer moved wrongly!
+[24May2025 02:17:40.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darrouy has made the advancement [Airship Village]
+[24May2025 02:17:43.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darrouy moved wrongly!
