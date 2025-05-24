@@ -835,9 +835,21 @@
     },
     "done": true
   },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-05-24 19:17:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-05-24 19:02:58 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-05-24 19:12:29 +0000"
     },
     "done": true
   },
@@ -846,6 +858,12 @@
       "fried_rice": "2025-05-24 19:02:58 +0000"
     },
     "done": false
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-05-24 19:16:21 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
