@@ -4650,3 +4650,6 @@ ModdedBiomeSource (6c319780)
 [24May2025 14:18:13.504] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/ds/servidor_minecraft/bclib-sync (allowDelete=true)
 [24May2025 14:18:23.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was slain by Dropbear
 [24May2025 14:18:48.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3045ms or 60 ticks behind
+[24May2025 14:45:27.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone lost connection: Disconnected
+[24May2025 14:45:27.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone left the game
+[24May2025 14:45:27.528] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 1cad83d3-bc83-4945-8098-f935121abd7c
