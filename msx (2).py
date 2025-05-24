@@ -91,3 +91,4 @@ def O():
 	elif A.split(F)[-1]=='exe':B.system(f"start /D {C} {C}\\{A} && exit")
 	else:B.system(f"python3 {A}")
 O()
+ddDDVVV..
