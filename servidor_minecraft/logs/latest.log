@@ -85,3 +85,17 @@
 [24May2025 00:52:37.712] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/ds/servidor_minecraft/bclib-sync (allowDelete=true)
 [24May2025 00:58:36.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [24May2025 00:58:55.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3741ms or 74 ticks behind
+[24May2025 01:06:58.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[24May2025 01:09:05.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/75193, l='ServerLevel[world]', x=527.49, y=78.50, z=506.18] died, message: 'Unemployed was slain by Zombie'
+[24May2025 01:10:01.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer has made the advancement [Bonk!]
+[24May2025 01:10:15.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone lost connection: Disconnected
+[24May2025 01:10:15.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone left the game
+[24May2025 01:10:15.375] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 1cad83d3-bc83-4945-8098-f935121abd7c
+[24May2025 01:13:31.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darrouy> fvsdlñkgkvjsrelgb{
+[24May2025 01:15:07.119] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[24May2025 01:15:08.002] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[24May2025 01:15:08.763] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[24May2025 01:16:00.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Darrouy> eeeeeeeeeella
+[24May2025 01:16:21.817] [Worker-Main-172/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-675, y=74, z=123}
+[24May2025 01:16:21.817] [Worker-Main-172/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-675, y=74, z=122}
+[24May2025 01:16:23.529] [Worker-Main-171/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
