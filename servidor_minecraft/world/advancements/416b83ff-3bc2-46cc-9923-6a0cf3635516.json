@@ -571,5 +571,18 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:coconino_meadow": "2025-05-24 00:15:13 +0000",
+      "biomeswevegone:orchard": "2025-05-24 00:15:24 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:coconino_meadow": "2025-05-24 00:15:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

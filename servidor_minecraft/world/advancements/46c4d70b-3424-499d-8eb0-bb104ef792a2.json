@@ -713,6 +713,12 @@
     },
     "done": true
   },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-05-24 00:15:14 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:adventure/dont_move": {
     "criteria": {
       "spotted_by_peeper": "2025-05-23 23:06:43 +0000"
