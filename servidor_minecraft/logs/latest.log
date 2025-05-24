@@ -4731,3 +4731,19 @@ ModdedBiomeSource (6c319780)
 [24May2025 16:39:21.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone lost connection: Disconnected
 [24May2025 16:39:21.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone left the game
 [24May2025 16:39:21.527] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 1cad83d3-bc83-4945-8098-f935121abd7c
+[24May2025 18:58:33.166] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mabilone is 1cad83d3-bc83-4945-8098-f935121abd7c
+[24May2025 18:58:36.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mabilone[/127.107.69.249:36067] logged in with entity id 26688 at (956.1627904107397, 68.0, 528.141722908478)
+[24May2025 18:58:36.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone joined the game
+[24May2025 18:58:36.953] [Server thread/INFO] [Jade/]: Syncing config to Mabilone (1cad83d3-bc83-4945-8098-f935121abd7c)
+[24May2025 18:58:36.987] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 1cad83d3-bc83-4945-8098-f935121abd7c
+[24May2025 18:58:37.284] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[24May2025 18:58:37.284] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[24May2025 18:58:37.284] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[24May2025 18:58:37.284] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[24May2025 18:58:37.285] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[24May2025 18:58:37.285] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[24May2025 18:58:37.285] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[24May2025 18:58:37.285] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[24May2025 18:58:37.285] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[24May2025 18:58:37.285] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[24May2025 18:58:37.285] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/ds/servidor_minecraft/bclib-sync (allowDelete=true)
