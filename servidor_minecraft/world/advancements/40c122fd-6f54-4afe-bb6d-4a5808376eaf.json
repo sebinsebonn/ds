@@ -275,6 +275,7 @@
       "minecraft:snowy_taiga": "2025-05-21 20:53:42 +0000",
       "environmental:environmental:snowy_pine_barrens": "2025-05-21 21:00:23 +0000",
       "minecraft:cold_ocean": "2025-05-21 00:20:44 +0000",
+      "atmospheric:atmospheric:snowy_scrubland": "2025-05-24 01:28:26 +0000",
       "minecraft:forest": "2025-05-21 00:06:33 +0000",
       "minecraft:lush_caves": "2025-05-21 00:11:39 +0000",
       "environmental:environmental:pine_barrens": "2025-05-21 21:29:45 +0000",
@@ -547,7 +548,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-05-21 01:05:34 +0000"
+      "apple": "2025-05-21 01:05:34 +0000",
+      "golden_apple": "2025-05-24 01:35:40 +0000"
     },
     "done": false
   },
@@ -836,6 +838,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-24 01:32:36 +0000"
+    },
+    "done": false
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2025-05-23 22:54:16 +0000"
@@ -863,6 +871,12 @@
   "create:portable_storage_interface": {
     "criteria": {
       "0": "2025-05-23 22:56:37 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-24 01:32:36 +0000"
     },
     "done": true
   },
