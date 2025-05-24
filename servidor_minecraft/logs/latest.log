@@ -4728,3 +4728,6 @@ ModdedBiomeSource (6c319780)
 [24May2025 15:41:33.744] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [24May2025 15:41:33.744] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [24May2025 15:41:33.744] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/ds/servidor_minecraft/bclib-sync (allowDelete=true)
+[24May2025 16:39:21.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone lost connection: Disconnected
+[24May2025 16:39:21.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone left the game
+[24May2025 16:39:21.527] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 1cad83d3-bc83-4945-8098-f935121abd7c
