@@ -814,5 +814,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-24 00:45:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
